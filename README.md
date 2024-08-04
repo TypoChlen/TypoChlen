@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TypoChlen
+- 👋 Hi, I’m @CarapeteanRoman
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
